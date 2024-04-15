@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
+
 <!--
 **david-ezenwa/david-ezenwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
