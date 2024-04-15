@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="./images/area_and_perimeter.png" alt="laptop image">
+<img src="[./images/area_and_perimeter.png](https://preview.redd.it/help-me-find-the-origin-of-this-damn-dog-ive-looked-up-like-v0-zj7m5n0a2xx91.jpg?auto=webp&s=5f8f63acf583cf94e8e558f07e0d89ef6bf3d0f6)" alt="laptop image">
 **david-ezenwa/david-ezenwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
